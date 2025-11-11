@@ -1,5 +1,5 @@
 // Full list kabupaten & kota Indonesia [2024]. Dapat digunakan sebagai array/direktori JS di aplikasi Anda.
-export const KABUPATEN_LIST = [
+window.KABUPATEN_LIST = [
   "Kabupaten Aceh Barat",
   "Kabupaten Aceh Barat Daya",
   "Kabupaten Aceh Besar",
@@ -84,7 +84,7 @@ export const KABUPATEN_LIST = [
   // ... lanjut semua kabupaten Indonesia total 416 ...
 ];
 
-export const KOTA_LIST = [
+window.KOTA_LIST = [
   "Kota Ambon",
   "Kota Balikpapan",
   "Kota Banda Aceh",
